@@ -1,0 +1,5 @@
+- Tab completion for input
+- Model selection (tiny, base, small, medium, large)
+    - Tab completion for that
+- Language selection prompt (or detect)
+    - Tab completion for that
